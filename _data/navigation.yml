@@ -9,7 +9,7 @@ main:
   - title: "Engineering"
     url: /eng/
 
-  -title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio/
 
   - title: "Blog"
