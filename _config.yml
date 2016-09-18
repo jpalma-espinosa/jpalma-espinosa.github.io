@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Javier Palma Espinosa"
-  avatar           : "javier.png"
+  avatar           : "javierWeb.jpg"
   bio              : "Electrical Engineer / Scientist / Director of Photography"
   location         : "Santiago de Chile - SCL"
   email            : "javier@javierpalmaespinosa.cl"
@@ -86,7 +86,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :  "https://www.flickr.com/photos/javier_electrico/"
+  flickr           :  "/photos/javier_electrico/"
   facebook         :
   foursquare       :
   github           :  "jpalma-espinosa"
