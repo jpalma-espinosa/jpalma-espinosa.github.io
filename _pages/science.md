@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: single
-excerpt: "About this website."
+excerpt: "Science"
 sitemap: false
 permalink: /science.html
 ---
