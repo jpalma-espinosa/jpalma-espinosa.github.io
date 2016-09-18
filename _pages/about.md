@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 layout: single
 excerpt: "About this website."
 sitemap: false
@@ -10,10 +10,10 @@ Greetings Human
 ===============
 
 Hello!
-I'm Javier, an electrical engineer / Scientist / Director of Photography from Santiago de Chile.
+I'm Javier, an electrical engineer / Scientist / Director of Photography from [Santiago de Chile](https://en.wikipedia.org/wiki/Santiago).
 
 I started this website because I thought it was the time for me to move all my thoughts, ideas and projects to the web. 
-However, I will use this space to promote my work, share some tips and hints, and talk about my passion and future carreer: science.
+However, I will use this space to promote my work, share some tips and hints, and talk about my passion and future carreer: Neuroscience.
 
 
 Overview
