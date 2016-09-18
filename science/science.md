@@ -3,7 +3,7 @@ title: ""
 layout: single
 excerpt: "Science"
 sitemap: false
-permalink: /science/science.html
+permalink: /science
 ---
 
 Science Blog
