@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "es"
-title                    : "Personal Website"
+locale                   : "en"
+title                    : "Javier's website"
 title_separator          : "-"
 name                     : "Javier Palma Espinosa"
 description              : "An amazing website."
@@ -15,6 +15,7 @@ url                      : "http://javierpalmaespinosa.cl" # the base hostname &
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -86,7 +87,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :  "/photos/javier_electrico/"
+  flickr           :  "photos/javier_electrico/"
   facebook         :
   foursquare       :
   github           :  "jpalma-espinosa"
