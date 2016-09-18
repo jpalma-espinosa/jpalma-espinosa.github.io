@@ -3,7 +3,7 @@ title: ""
 layout: single
 excerpt: "About this website."
 sitemap: false
-permalink: /about.html
+permalink: /science.html
 ---
 
 Science Blog
