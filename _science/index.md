@@ -22,7 +22,7 @@ an analysis and simplification to plain-human to several papers that I will/have
 
 
 {% raw %}
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   {% if post.categories contains 'science' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
