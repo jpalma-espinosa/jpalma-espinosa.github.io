@@ -18,12 +18,3 @@ an analysis and simplification to plain-human to several papers that I will/have
 
 
 
-<ul>
-  {% for post in site.posts %}
-  	{% if post.categories contains 'science' %}
-    	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-
