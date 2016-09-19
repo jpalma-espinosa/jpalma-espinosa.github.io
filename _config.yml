@@ -11,7 +11,7 @@ title                    : "Javier's website"
 title_separator          : "-"
 name                     : "Javier Palma Espinosa"
 description              : "An amazing website."
-url                      : 127.0.0.1 #"http://javierpalmaespinosa.cl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://javierpalmaespinosa.cl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -112,6 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _science
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
