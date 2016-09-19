@@ -7,10 +7,10 @@ main:
     url: /science/
 
   - title: "Engineering"
-    url: /eng
+    url: /eng/
 
   - title: "Portfolio"
-    url: /portfolio
+    url: /portfolio/
 
   - title: "Blog"
-    url: /blog
+    url: /blog/
