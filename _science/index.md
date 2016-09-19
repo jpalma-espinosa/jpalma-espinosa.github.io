@@ -16,7 +16,7 @@ an analysis and simplification to plain-human to several papers that I will/have
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   {% include archive-single.html %}
   {% if post.categories contains 'science' %}
 	<div class="post">
