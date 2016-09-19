@@ -14,7 +14,7 @@ I will use this space to put my projects, [jupyter notebooks](http://jupyter-not
 an analysis and simplification to plain-human to several papers that I will/have/must read. Enjoy!
 
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}
 
 {% for post in site.posts %}
   {% include archive-single.html %}
@@ -30,7 +30,7 @@ an analysis and simplification to plain-human to several papers that I will/have
 {% endfor %}
 
 
-
+</h3>
 
 
 
