@@ -15,9 +15,8 @@ an analysis and simplification to plain-human to several papers that I will/have
 
 
 
-
+{% raw %}
 {% for post in site.posts %}
-  {% include archive-single.html %}
   {% if post.categories contains 'science' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -28,7 +27,7 @@ an analysis and simplification to plain-human to several papers that I will/have
 	</div>
   {% endif %}
 {% endfor %}
-
+{% endraw %}
 
 
 
