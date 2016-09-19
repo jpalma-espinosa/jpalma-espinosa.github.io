@@ -14,8 +14,13 @@ I will use this space to put my projects, [jupyter notebooks](http://jupyter-not
 an analysis and simplification to plain-human to several papers that I will/have/must read. Enjoy!
 
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+
+
+
 {% raw %}
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% if post.categories contains 'science' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
