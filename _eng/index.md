@@ -15,6 +15,7 @@ I will try to put hints, tips, and some basic(and not so basic) calculations tha
 about the differential ecuations needed to solve the problem.
 
 >The human knowledge belongs to the world
+
 Milo Hoffman - [Antitrust](https://en.wikipedia.org/wiki/Antitrust_(film))
 
 
