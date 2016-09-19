@@ -14,8 +14,7 @@ I will use this space to put my projects, [jupyter notebooks](http://jupyter-not
 an analysis and simplification to plain-human to several papers that I will/have/must read. Enjoy!
 
 
-sdasdasdasd
-
+saasdsad
 
 {% for post in site.posts %}
   {% if post.categories contains 'science' %}
