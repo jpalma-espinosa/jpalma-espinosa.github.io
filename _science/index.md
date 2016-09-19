@@ -19,6 +19,8 @@ an analysis and simplification to plain-human to several papers that I will/have
 
 
 
+
+
 {% raw %}
 {% for post in paginator.posts %}
   {% if post.categories contains 'science' %}
@@ -32,3 +34,5 @@ an analysis and simplification to plain-human to several papers that I will/have
   {% endif %}
 {% endfor %}
 {% endraw %}
+
+{% include paginator.html %}
