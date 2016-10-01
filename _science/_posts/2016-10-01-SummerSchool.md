@@ -48,7 +48,8 @@ For me, this kind of schools should be compulsory for every neuroscientist. Why?
 I guess that the need for mastering computational tools will be the next differentiating step in the scientific career, so it is better to get ready.
 As [Jeffrey Leek](http://jtleek.com/) says in his book [*How to be a Modern Scientist*](https://leanpub.com/modernscientist) "The face of academia is changing. It is no longer sufficient to just publish or perish. We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular parts of the scientific workflow."
 
-*Song of the day* [![Dream Theater - The great debate](https://i.ytimg.com/vi/4z6vpiXQJNA/hqdefault.jpg)](https://www.youtube.com/watch?v=4z6vpiXQJNA)
+# Song of the day 
+[![Dream Theater - The great debate](https://i.ytimg.com/vi/4z6vpiXQJNA/hqdefault.jpg)](https://www.youtube.com/watch?v=4z6vpiXQJNA)
 
 
 
