@@ -11,7 +11,7 @@ tag: Neuroscience, Summer School, LASCON, Science, python, Dream Theater
 As my research has been focused exclusively in neuroscience, this entry will assume that every relationship with science, classes, lectures, laboratory and other things are embeded in the neuroscience field.
 
 # Soft Skills for the not-so-soft Scientific World
-Considering the incredible ammount of abbilities and techniques that a scientist must adquire and master in order to get its degree, the time spent in the experiments, meetings, paper reading and writting, struggling with data, ~~crying desperately for your [mom](http://www.phdcomics.com/comics/archive_print.php?comicid=1286)~~ and having a life, the chances that you get time to do all of the above is nearly zero.
+Considering the incredible ammount of abbilities and techniques that a scientist must adquire and master in order to get its degree, the time spent in the experiments, meetings, paper reading and writting, struggling with data, ~~crying desperately for your [mom](http://www.phdcomics.com/comics/archive.php?comicid=1286)~~ and having a life, the chances that you get time to do all of the above is nearly zero.
 
 Of course, you try to prioritize your activities.  One of the first items to be left behind is learning new things **outside** your main research topics. Ok, we all know some genious guy or gal who does master ALL. Just ALL of the things you wanted to do, learn, study, hack, but for us, mortals trying to cope with life, dropping one or two (ok, make it 10) things is normal, and even desirable, but maybe not very convenient for your further development.
 
@@ -48,18 +48,19 @@ For me, this kind of schools should be compulsory for every neuroscientist. Why?
 I guess that the need for mastering computational tools will be the next differentiating step in the scientific career, so it is better to get ready.
 As [Jeffrey Leek](http://jtleek.com/) says in his book [*How to be a Modern Scientist*](https://leanpub.com/modernscientist) "The face of academia is changing. It is no longer sufficient to just publish or perish. We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular parts of the scientific workflow."
 
-*Song of the day* [![Dream Theater - The great debate](hhttps://i.ytimg.com/vi/4z6vpiXQJNA/hqdefault.jpg)](https://www.youtube.com/watch?v=4z6vpiXQJNA)
+*Song of the day* [![Dream Theater - The great debate](https://i.ytimg.com/vi/4z6vpiXQJNA/hqdefault.jpg)](https://www.youtube.com/watch?v=4z6vpiXQJNA)
 
 
 
 # References
 1. Callaway, E. (2014). Life outside the lab: The ones who got away. Nature, 513(7516), 20.
-2. Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., ... & Waugh, B. (2014). Best practices for scientific computing. PLoS Biol, 12(1), e1001745.
-3. Sejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nature neuroscience, 17(11), 1440-1441.
+2. Haddock, S. H. D., & Dunn, C. W. (2011). Practical computing for biologists (No. 57: 004 HAD). Sunderland, MA: Sinauer Associates.
+3. Hanke, M., Halchenko, Y. O., Sederberg, P. B., Olivetti, E., Fründ, I., Rieger, J. W., ... & Pollmann, S. (2015). PyMVPA: a unifying approach to the analysis of neuroscientific data. Python in Neuroscience, 157.
 4. Muller, E., Bednar, J. A., Diesmann, M., Gewaltig, M. O., Hines, M., & Davison, A. P. (2015). Python in neuroscience. Frontiers in neuroinformatics, 9.
-5. Muller, E., Bednar, J. A., Diesmann, M., Gewaltig, M. O., Hines, M., & Davison, A. P. (2015). Python in neuroscience. Frontiers in neuroinformatics, 9.
+5. Sejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nature neuroscience, 17(11), 1440-1441.
 6. Voit, E. O. (2000). Computational analysis of biochemical systems: a practical guide for biochemists and molecular biologists. Cambridge University Press.
-7. Haddock, S. H. D., & Dunn, C. W. (2011). Practical computing for biologists (No. 57: 004 HAD). Sunderland, MA: Sinauer Associates.
+7. Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., ... & Waugh, B. (2014). Best practices for scientific computing. PLoS Biol, 12(1), e1001745.
+
 
 
 
