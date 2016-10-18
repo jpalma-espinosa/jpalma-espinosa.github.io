@@ -62,7 +62,7 @@ Nop :3.  Usando tiempo libre y unas lineas de código, es posible abrir cada pá
 **- Chuta, peligroso, pero...se puede hacer algo más?**
 Por desgracia, si.  Como Servel entrega la dirección, es posible usar google maps para geolocalizar la dirección y mostrarla en un lindo mapa. En particular, la imagen que está mas abajo fue algo que hice mientras practicaba todo esto. Obviamente no voy a colocar el rut de la persona ni sus nombres.
 
-![Algo como esto](https://www.dropbox.com/s/67bxu1j5yt9bz2a/servel.jpg?dl=0)
+![Algo como esto](../img/servel.jpg)
 
 # Quiere jugar?
 Si quieren jugar con esto, el código está disponible en github. En particular, lo pueden bajar desde [aquí](https://github.com/jpalma-espinosa/servel).
