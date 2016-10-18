@@ -30,7 +30,7 @@ Contextualicémonos un poquito:
 
 La pregunta que cabe hacerse ahora es ¿mi dirección es un dato privado, público, sensible?.  
 Como mencioné anteriormente, ya varias organizaciones han hablado sobre este tema. Por ejemplo, Ávalos F.D. publicó en el año 2014 un [paper](http://www.semanariorepublicano.uchile.cl/index.php/RCHDT/article/viewArticle/33276) en la Revista Chilena de Derecho y Tecnología sobre el acceso público a datos personales.
-Por otro lado, la ONG [Datos Protegidos](http://datosprotegidos.cl) planteó hace un mes [lo siguiente]((http://datosprotegidos.cl/servel-y-proteccion-de-datos-personales/)
+Por otro lado, la ONG [Datos Protegidos](http://datosprotegidos.cl) planteó hace un mes [lo siguiente](http://datosprotegidos.cl/servel-y-proteccion-de-datos-personales/)
 
 >El descontrol en el que circulan nuestros datos personales no puede ser fomentado por el propio Estado. Nos hace vulnerables a malas prácticas de las industrias de publicidad o peor aún nos pone en riesgo inminente de sufrir algún delito. Claramente la norma que dispuso la publicación en la web del Padrón, no reparó en las definiciones de la ley 19.628, como la fuente accesible a público y las excepciones al consentimiento que ello implica, ni la carencia de autoridad de control para fiscalizar. La ley 19.628 es a todas luces insuficiente. Tampoco consideró los principios que inspiran el tratamiento de datos, ni las consecuencias de cara a las tecnologías que implican el tratamiento masivo de datos personales de todos los chilenos.
 
