@@ -1,7 +1,7 @@
 ---
 layout: single
 category: blog
-title: 'Servel y sus ¿datos privados?'
+title: 'Servel, mi privacidad, Idiota!'
 date: 2016-10-18 08:00
 permalink: /blog/servel-privados
 ---
