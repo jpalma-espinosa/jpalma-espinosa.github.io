@@ -30,11 +30,10 @@ Contextualicémonos un poquito:
 
 La pregunta que cabe hacerse ahora es ¿mi dirección es un dato privado, público, sensible?.  
 Como mencioné anteriormente, ya varias organizaciones han hablado sobre este tema. Por ejemplo, Ávalos F.D. publicó en el año 2014 un [paper](http://www.semanariorepublicano.uchile.cl/index.php/RCHDT/article/viewArticle/33276) en la Revista Chilena de Derecho y Tecnología sobre el acceso público a datos personales.
-Por otro lado, la ONG [Datos Protegidos](http://datosprotegidos.cl) planteó hace un mes lo siguiente
+Por otro lado, la ONG [Datos Protegidos](http://datosprotegidos.cl) planteó hace un mes [lo siguiente]((http://datosprotegidos.cl/servel-y-proteccion-de-datos-personales/)
 
 >El descontrol en el que circulan nuestros datos personales no puede ser fomentado por el propio Estado. Nos hace vulnerables a malas prácticas de las industrias de publicidad o peor aún nos pone en riesgo inminente de sufrir algún delito. Claramente la norma que dispuso la publicación en la web del Padrón, no reparó en las definiciones de la ley 19.628, como la fuente accesible a público y las excepciones al consentimiento que ello implica, ni la carencia de autoridad de control para fiscalizar. La ley 19.628 es a todas luces insuficiente. Tampoco consideró los principios que inspiran el tratamiento de datos, ni las consecuencias de cara a las tecnologías que implican el tratamiento masivo de datos personales de todos los chilenos.
 
-[link acá](http://datosprotegidos.cl/servel-y-proteccion-de-datos-personales/)
 
 Además, la organización [Derechos Digitales](https://www.derechosdigitales.org) realizó un [policy paper](https://www.derechosdigitales.org/wp-content/uploads/pp-08.pdf) en el cual se aborda la privacidad en el sistema legal chileno.  En dicho paper se plantea el conflicto de los datos por parte del Servel.  En particular, muestran casos de copias del padrón completo y de la publicación del padrón(del año 2012). Más aún, dicho paper plantea que 
 
@@ -62,7 +61,7 @@ Nop :3.  Usando tiempo libre y unas lineas de código, es posible abrir cada pá
 **- Chuta, peligroso, pero...se puede hacer algo más?**
 Por desgracia, si.  Como Servel entrega la dirección, es posible usar google maps para geolocalizar la dirección y mostrarla en un lindo mapa. En particular, la imagen que está mas abajo fue algo que hice mientras practicaba todo esto. Obviamente no voy a colocar el rut de la persona ni sus nombres.
 
-![Algo como esto](../img/servel.jpg)
+![Algo como esto](http://javierpalmaespinosa.cl/blog/img/servel.jpg)
 
 # Quiere jugar?
 Si quieren jugar con esto, el código está disponible en github. En particular, lo pueden bajar desde [aquí](https://github.com/jpalma-espinosa/servel).
