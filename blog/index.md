@@ -17,7 +17,7 @@ This will be a place to discuss ideas and share my believes.  Feel free to read 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in site.posts %}
-  {% if post.categories contains 'science' %} 
+  {% if post.categories contains 'blog' %} 
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
