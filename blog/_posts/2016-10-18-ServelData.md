@@ -11,14 +11,14 @@ permalink: /blog/servel-privados
 
 Ahora bien, no quiero hablar sobre ese problema en particular, pues las noticias se han encargado ya de llenarnos con información sobre este tema.  Esta vez quisiera hablar sobre la privacidad de los datos que entrega el Servel.
 
-#Un poquito de historia (y de información sobre las leyes)
+# Un poquito de historia (y de información sobre las leyes)
 Como cualquier chileno debiese leer las leyes y estar informado sobre sus cambios y cómo nos afectan dichas leyes. Porsupuesto, estamos muy ocupados y además las leyes están escritas en "abogado", por lo tanto, el leerlas e investigar las leyes que nos gobiernan no es algo que hacemos a menudo, a menos que nos surja alguna emergencia o duda (por cierto, todas las leyes están en la [Biblioteca del Congreso(BCN)](http://www.bcn.cl)).  Pues bien, siguiendo este ejemplo, yo no tenía idea que el Servel está obligado por [ley](http://servel.cl/inscripciones-electorales-y-servicio-electoral/) a publicar el padrón electoral, es decir, el listado de todas las personas que tienen derecho a votar (sufragio para los "meñique arriba").
 
 Además de la Ley 18.556, que es la que regula el régimen de inscripción electoral y del Servicio Electoral, tenemos la linda(?) [Ley 19.628 sobre protección de datos personales](http://www.leychile.cl/Navegar?idNorma=141599).  Esta ley da directrices sobre cuáles son los datos personales públicos, privados, sensibles y cómo éstos deben ser tratados, almacenados y eliminados.
 
 Entonces, tenemos por un lado una ley que obliga a una institución del estado a *entregar* datos públicamente, y otra ley que *protege* la manipulación y acceso de ciertos datos. Creo que ya se dan cuenta hacia dónde voy.
 
-#¿Qué tan privados son mis datos privados?
+# ¿Qué tan privados son mis datos privados?
 Esta historia no es tan nueva.  Ya han habido numerosas organizaciones, instituciones, proyectos de ley y otros tantos que han dado la alarma sobre este tema.  
 Contextualicémonos un poquito:
 1. Si yo accedo al padrón auditado que entrega el Servel (gracias a la Ley 18.556), puedo encontrar la dirección actual de básicamente quien yo quiera. Ok, puede que esta dirección no sea dónde viva, pero seamos sinceros: muy pocos cambiamos la dirección del padrón, y quienes lo hacen, usualmente utilizan su dirección de residencia.
@@ -39,7 +39,7 @@ Más aún, el Consejo para la Transparencia [ha tratado el tema](http://www.cons
 
 Como guinda de la torta, la Universidad Católica entregó, en Abril de este año, un [informe](http://datosprotegidos.cl/wp-content/uploads/2016/09/encuesta-datos-personales.-1.pdf) de un "servicio de consultoría para la Realización de la encuesta nacional del tratamiento de datos personales". En este informe, el gráfico nro 5 (si está viendo el informe, vaya a la página 52) muestra que un 69% de los encuestados considera que su dirección es una información considerada como personal. Haciendo un contraste, sólo un 27,2% de los encuestados estaría dispuesto a entregar su dirección vía online (gráfico 15, pag 62 de dicho informe).
 
-#Ahora...lo interesante.
+# Ahora...lo interesante.
 Hasta aquí, sólo ha habido un trabajo de mostrar que los datos que entrega el servel podrían ser considerados privados, protegidos o almenos, que no todo el mundo tenga acceso libre a ellos. Pero, esto no pasa, o si????
 Desafortunadamente, SI.
 
@@ -52,11 +52,11 @@ Nop :3.  Usando tiempo libre y unas lineas de código, es posible abrir cada pá
 - Chuta, peligroso, pero...se puede hacer algo más?
 Por desgracia, si.  Como Servel entrega la dirección, es posible usar google maps para geolocalizar la dirección y mostrarla en un lindo mapa.
 
-#Quiere jugar?
+# Quiere jugar?
 Si quieren jugar con esto, el código está disponible en github. En particular, lo pueden bajar desde https://github.com/jpalma-espinosa/servel
 Recuerden que, según la legislación vigente, no es posible hacer uso comercial de los datos proporcionados por el servel.
 
-#Y todo esto...pa qué?
+# Y todo esto...pa qué?
 Mi interés al publicar todo esto es plantear la pregunta ¿por qué es tán fácil extraer esta información?. Está bien, Servel debe publicarlas, pero, ¿es necesario que publiquen la dirección de todo Chile? ¿No bastaría con sólo publicar mi circunscripción? Que Servel tenga la información me parece bien, pero no que cualquiera pueda obtener mis datos.  Sólo pido un poquito, un poquito más de complejidad y de barreras para acceder a los datos. Podría usarse un captcha, regular la cantidad de accesos por IP, qué se yo.
 
 Quiero dejar claro que mi intención no es dañar ni hacer mal uso de esta información.  Es mas, la estoy colocando en formato open source con licencia creative commons para que los encargados de la seguridad de Servel puedan tomar acciones y las medidas pertinentes.
