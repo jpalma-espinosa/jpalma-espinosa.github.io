@@ -56,11 +56,13 @@ Toda la razón, nadie se va a dar la lata, para eso se inventaron los computador
 [Este archivo](http://web.servel.cl/archivos.xml) entrega el nombre de todos los pdf y la comuna asociada.  Entonces sólo es cosa de colocar el nombre de esos archivos en 
 
 >http://web.servel.cl/padron/NombreDeArchivo.pdf 
+
 y estamos listos.
 
 Más fácil aún, usando la herramienta wget (ok, y usando *grep* y *cat*) es posible automatizar la descarga de los archivos y obtener ***TODO EL PADRON ELECTORAL DE CHILE*** en su computador (aprox. 1.5 GB)
 
 **- Ya, pero igual. Tendría que revisar cada archivo, cada página, cada linea para poder saber dónde vive cada uno, ¿o no?**
+
 Ño :3.  Usando tiempo libre y unas lineas de código ~~y algunos litros de café~~, es posible abrir cada página de cada archivo, separar cada dato y crear una base de datos (yo usé [MongoDB](https://www.mongodb.com/es)).
 
 **- Chuta, peligroso, pero...¿se puede hacer algo más?**
