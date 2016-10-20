@@ -8,7 +8,7 @@ permalink: /blog/servel-privados
 
 ## *Update: 20 Oct. 2016*
 
->Ayer me enteré que el equipo de [Revolución Democrática](https://www.revoluciondemocratica.cl) realizó [indicaciones](https://twitter.com/EquipoJackson/status/788076108772237312) a la fallida [Ley Corta del Servel](http://www.cooperativa.cl/noticias/pais/politica/municipales/municipales-congreso-define-ley-corta-para-remediar-error-en-cambios-de/2016-10-17/070313.html). Dicha indicación incorporaba la aplicación de tecnologías digitales para evitar el doble voto. ¿Cree Ud. que alguien la entendió?
+>Ayer me enteré que el equipo de [Revolución Democrática](http://revoluciondemocratica.cl/) realizó [indicaciones](https://twitter.com/EquipoJackson/status/788076108772237312) a la fallida [Ley Corta del Servel](http://www.cooperativa.cl/noticias/pais/politica/municipales/municipales-congreso-define-ley-corta-para-remediar-error-en-cambios-de/2016-10-17/070313.html). Dicha indicación incorporaba la aplicación de tecnologías digitales para evitar el doble voto. ¿Cree Ud. que alguien la entendió?
 
 
 Últimamente ha habido un gran revuelo con los conflictos que han habido en el [Servel](http://www.servel.cl)  (Servicio Electoral), debido a que [se modificaron los lugares de votación de forma arbitraria](http://www.24horas.cl/municipales-2016/registro-civil-contradice-al-servel-y-afirma-que-cambios-de-domicilio-afectan-a-17-mil-chilenos-2161520).
