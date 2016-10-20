@@ -6,8 +6,13 @@ date: 2016-10-18 08:00
 permalink: /blog/servel-privados
 ---
 
+## *Update: 20 Oct. 2016*
+
+>Ayer me enteré que el equipo de [Revolución Democrática](https://www.revoluciondemocratica.cl) realizó [indicaciones a la fallida Ley Corta del Servel](https://twitter.com/vivivaldivia66/status/788808552748023808). Dicha indicación incorporaba la aplicación de tecnologías digitales para evitar el doble voto. ¿Cree Ud. que alguien entendió la indicación?
+
 
 Últimamente ha habido un gran revuelo con los conflictos que han habido en el [Servel](http://www.servel.cl)  (Servicio Electoral), debido a que [se modificaron los lugares de votación de forma arbitraria](http://www.24horas.cl/municipales-2016/registro-civil-contradice-al-servel-y-afirma-que-cambios-de-domicilio-afectan-a-17-mil-chilenos-2161520).
+
 
 Ahora bien, no quiero hablar sobre ese problema en particular, pues las noticias se han encargado ya de llenarnos con información sobre este tema.  Esta vez quisiera hablar sobre la privacidad de los datos que entrega el Servel.
 
