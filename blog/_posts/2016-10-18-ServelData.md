@@ -54,6 +54,7 @@ La página del Servel tiene un "pequeñito" error.  Si uno accede [aquí](http:/
 **- Ah, pero no importa. Nadie se va a dar la lata de bajar archivo por archivo.**
 Toda la razón, nadie se va a dar la lata, para eso se inventaron los computadores.  
 [Este archivo](http://web.servel.cl/archivos.xml) entrega el nombre de todos los pdf y la comuna asociada.  Entonces sólo es cosa de colocar el nombre de esos archivos en 
+
 >http://web.servel.cl/padron/NombreDeArchivo.pdf 
 y estamos listos.
 
