@@ -12,7 +12,7 @@ I obtained my engineer's degree at [Departamento de Ingeniería Eléctrica](http
 Due to the formation obtained at my University, and also, by developing and participating in several engineering projects is that I feel the need to share what I have learned
 in my engineer's role.
 I will try to put hints, tips, and some basic(and not so basic) calculations that not only engineers can follow, but also the people who only wants to build and not to take care
-about the differential ecuations needed to solve the problem.
+about the differential equations needed to solve the problem.
 
 >The human knowledge belongs to the world
 
