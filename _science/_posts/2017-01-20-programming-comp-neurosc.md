@@ -97,7 +97,7 @@ or even better
 ```python
 output=[]
 somatic_conductance = [2 4 6]
-from g in somatic_conductance
+from g in somatic_conductance:
 	calculated_function = somatic_conductance*exp(-somatic_conductance/100*g) #from author et al., 2016
 	output.append(calculated_function)
 ```
@@ -114,7 +114,7 @@ between your code, it is always a good idea to spit some output to your console,
 output=[]
 somatic_conductance = [2 4 6]
 print 'Somatic conductance created with %s elements created'&len(somatic_conductance)
-from g in somatic_conductance
+from g in somatic_conductance:
 	calculated_function = somatic_conductance*exp(-somatic_conductance/100*g) #from author et al., 2016
 	output.append(calculated_function)
 	print '%s stored in output, using %s value'&(calculated_function,g)
