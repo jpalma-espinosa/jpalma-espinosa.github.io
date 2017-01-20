@@ -139,7 +139,7 @@ Now I implement this, because, while discussing your results, it is always usefu
 # Final Words
 This tips do work for me, however, I suggest you to find your own workflow and coding techniques. Feel free to comment them!
 
-# Song of the day 
+# Song of the day: The Algorithm - Floating Point
 [![The Algorithm - Floating Point](https://i.ytimg.com/vi/fhGJOys5gcc/maxresdefault.jpg)](https://www.youtube.com/watch?v=fhGJOys5gcc)
 
 
