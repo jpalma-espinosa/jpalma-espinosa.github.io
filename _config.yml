@@ -246,3 +246,10 @@ defaults:
       comments: true
       share: true
       related: false
+
+comments:
+  provider               : "facebook"
+  facebook:
+    appid                : # optional
+    num_posts            : 5 #(default)
+    colorscheme          : "dark" # "light" (default), "dark"
