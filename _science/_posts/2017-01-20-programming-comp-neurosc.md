@@ -8,7 +8,7 @@ tag: Neuroscience, LASCON, LACONEU, Science, python, The Algorithm
 ---
 
 # Why? Oh, Lord, why?!
-Yes, almost every time I have to read some piece of code written by me or other people, I ask myself the exact same question "Why, oh Lord WHY!?".  Why they(or I) mean by using this name of variable? Why did I put the plotting stage in here?? Why I didn't comment my code, Oh, Lord, WHY!!??!.
+Yes, almost every time I have to read some piece of code written by me or other people, I ask myself the exact same question "Why, oh Lord WHY!?".  Why they(or I) used this name of variable? Why did I put the plotting stage in here?? Why I didn't comment my code, Oh, Lord, WHY!!??!.
 
 Let's go a little back in the past, to understand the question that motivates this paragraph, and this entire post.
 
@@ -57,7 +57,7 @@ Now that I have my whole working structure, I will start a GitHub project in it.
 
 
 ## Defining the model and the experiments
-After (often simultaneously) reading papers (stored in the *ref folder*), I outline the model: What I want to study and what are going to be the experiments that I will going to realize.  Usually this is a cyclic process, so you should better keep track on it. 
+After (often simultaneously) reading papers (stored in the *ref folder*), I outline the model: What I want to study and what are going to be the experiments that I will do.  Usually this is a cyclic process, so you should better keep track on it. 
 In the best case scenario, I start a project notebook(yup, in jupyter), outline the big picture and set up a list of experiments, with the respective changes in the control variables.  This will help me in track the results and answer possible akward results.  I put this notebook in the *ntbk folder*.
 
 

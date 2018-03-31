@@ -4,7 +4,12 @@ category: science
 title: 'Summer School in Neuroscience'
 date: 2016-10-01
 permalink: /science/SummerSchool
-tag: Neuroscience Summer School, LASCON, Science, python, Dream Theater
+tags: 
+- Neuroscience Summer School
+- LASCON 
+- Science 
+- python
+- Dream Theater
 ---
 
 # Disclaimer
