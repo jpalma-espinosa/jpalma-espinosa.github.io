@@ -3,7 +3,7 @@ layout: single
 category: science
 title: 'Data Science How-to'
 date: 2016-10-01
-permalink: /science/SummerSchool
+permalink: /science/DS-howto
 tags: 
 - Neuroscience Summer School
 - LASCON 
