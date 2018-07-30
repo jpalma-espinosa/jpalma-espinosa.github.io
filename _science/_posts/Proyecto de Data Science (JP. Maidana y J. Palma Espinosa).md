@@ -771,7 +771,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](../img/output_18_0.png)
 
 
 Se observa que, al igual que en los vinos tintos,  entre las variables 'density' y 'fixed acidity' existe una relación lineal. Sin embargo esta presenta una pendiente muy cercana a cero.  Se elegirá entonces las variables 'density' y 'residual sugar'.  Además, los vinos blancos presentan una relación lineal más marcada entre su densidad y los grados alcohólicos. Serán estas variables las que se utilizarán a posteriori para realizar el modelo.
