@@ -2,14 +2,13 @@
 layout: single
 category: science
 title: 'Data Science How-to'
-date: 2016-10-01
+date: 2018-07-30
 permalink: /science/DS-howto
 tags: 
 - Neuroscience Summer School
 - LASCON 
 - Science 
 - python
-- Dream Theater
 ---
 
 # Proyecto de Data Science con python + jupyter notebook + pandas
