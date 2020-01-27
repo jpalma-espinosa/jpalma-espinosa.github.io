@@ -6,6 +6,19 @@ date: 2016-10-18 08:00
 permalink: /blog/servel-privados
 ---
 
+
+## *Update: 27 Enero. 2020*
+
+>Este año, y debido a la necesidad de votar una (nueva constitución)[https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020], es que el Servel publicó, como se lo exige la ley, el padrón auditado, para las personas que estan habilitadas para votar.  Esta vez se lucieron, ya que nisiquiera se esforzaron en enmascarar o poner un captcha al padrón. Esta vez decidí hacerlo viral y comunicarlo, además, en el grupo de Facebook de "Big Data/ Data Science Chile"
+
+
+>>https://www.servel.cl/wp-content/uploads/2020/01/ARRPPCC.pdf
+Ahí está el padrón completo.  la A va fija, RR corresponbde al número de región  (01 al 16). PP corresponde al número de provincias que tiene (dicha región) [https://es.wikipedia.org/wiki/Provincias_de_Chile]
+y CC es el número de comunas de dicha región (en formato de dos dígitos).
+El parsing quizá sea un poco más difícil, porque le pusieron fondo al pdf.
+**Happy hacking.**
+
+
 ## *Update: 20 Oct. 2016*
 
 >Ayer me enteré que el equipo de [Giorgio Jackson](http://www.giorgiojackson.cl/) realizó [indicaciones](https://twitter.com/EquipoJackson/status/788076108772237312) a la fallida [Ley Corta del Servel](http://www.cooperativa.cl/noticias/pais/politica/municipales/municipales-congreso-define-ley-corta-para-remediar-error-en-cambios-de/2016-10-17/070313.html). Dicha indicación incorporaba la aplicación de tecnologías digitales para evitar el doble voto. ¿Cree Ud. que alguien la entendió?
