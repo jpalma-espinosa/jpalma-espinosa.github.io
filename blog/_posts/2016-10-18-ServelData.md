@@ -9,12 +9,14 @@ permalink: /blog/servel-privados
 
 ## *Update: 27 Enero. 2020*
 
->Este año, y debido a la necesidad de votar una [nueva constitución](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), es que el Servel publicó, como se lo exige la ley, el padrón auditado, para las personas que estan habilitadas para votar.  Esta vez se lucieron, ya que nisiquiera se esforzaron en enmascarar o poner un captcha al padrón. Esta vez decidí hacerlo viral y comunicarlo, además, en el grupo de Facebook de "Big Data/ Data Science Chile"
+>Este año, y debido a la necesidad de votar una [nueva constitución](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), es que el Servel publicó, como se lo exige la ley, el padrón auditado para las personas que estan habilitadas para votar.  Esta vez se lucieron, ya que nisiquiera se esforzaron en enmascarar o poner un captcha al padrón. Esta vez decidí hacerlo viral y comunicarlo, además, en el grupo de Facebook de "Big Data/ Data Science Chile"
 
 > https://www.servel.cl/wp-content/uploads/2020/01/ARRPPCC.pdf
-Ahí está el padrón completo.  la A va fija, RR corresponbde al número de región  (01 al 16). PP corresponde al número de provincias que tiene [dicha región] (https://es.wikipedia.org/wiki/Provincias_de_Chile)
+Ahí está el padrón completo.  la A va fija, RR corresponde al número de región  (01 al 16). PP corresponde al número de provincias que tiene [dicha región] (https://es.wikipedia.org/wiki/Provincias_de_Chile)
 y CC es el número de comunas de dicha región (en formato de dos dígitos).
 El parsing quizá sea un poco más difícil, porque le pusieron fondo al pdf.
+
+20:40: Me informaron que el código que usa SERVEL para nombrar a los archivos por comuna, se corresponde con el [Código Único Teritorial](https://datosabiertos.ine.cl/dataviews/250601/CODIG-UNICO-TERRI/), entregado por el INE. Este código puede ser descargado como un csv. Con ese csv+wget se pueden hacer más cositas  :3
 
 **Happy hacking.**
 
